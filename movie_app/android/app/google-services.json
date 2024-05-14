@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "892123473367",
+    "firebase_url": "https://mini-e9d02-default-rtdb.firebaseio.com",
+    "project_id": "mini-e9d02",
+    "storage_bucket": "mini-e9d02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892123473367:android:825127de702d176d4fd792",
+        "android_client_info": {
+          "package_name": "com.powerpuff.movie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTHCoLpKTKIci-Rm29pzIaA6_y5LJ7_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
